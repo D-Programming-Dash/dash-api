@@ -4,7 +4,8 @@ import dash.api.config;
 
 enum CompilerType {
     ldcGit,
-    dmdGit
+    dmdGit,
+    gdcGit
 }
 
 struct CompilerInfo {
